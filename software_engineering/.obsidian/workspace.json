@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "49f2f37472efd26d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba41a12f61db32ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94e7b5144096b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Understanding Computer Systems Virtualisation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7fc2f9d3fd42524",
+    "type": "split",
+    "children": [
+      {
+        "id": "63415e2dbaeb7454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7a55f9a35032d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d3b4e7b6359aa753",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95ab8c522ddd29b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "710b4542418ea4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3abc2929efee58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3287dc0f6e7817c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Understanding Computer Systems Virtualisation"
+            }
+          },
+          {
+            "id": "4e6b888f1f6d851f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a8c1e99abdf98683",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ace17b37bd31a77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "21821a334872b187",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "e94e7b5144096b12",
+  "lastOpenFiles": [
+    "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
+    "3 - Tags/virtualisation.md",
+    "6 - Main Notes/virtualization.md",
+    "3 - Tags/operating system.md",
+    "5 - Templates/Full Note.md",
+    "Memory.md",
+    "Understanding Operating Systems.md",
+    "6 - Main Notes/Virtualization in computer systems.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "Welcome.md",
+    "3 - Tags",
+    "2 - Source Materials",
+    "1 - Rough Notes"
+  ]
+}
