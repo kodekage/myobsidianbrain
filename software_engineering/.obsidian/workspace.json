@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ba41a12f61db32ab",
+        "id": "5c034488ea575d32",
         "type": "tabs",
         "children": [
           {
-            "id": "e94e7b5144096b12",
+            "id": "d47c6c89f5accbdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
+                "file": "3 - Tags/grpc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Computer Systems Virtualisation"
+              "title": "grpc"
+            }
+          },
+          {
+            "id": "5d42ed3c1052a9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/HTTP2 vs HTTP1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP2 vs HTTP1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,8 +70,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -94,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Understanding Computer Systems Virtualisation"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,20 +170,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8c56ad1b28b2ea04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,20 +205,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e94e7b5144096b12",
+  "active": "1c7a55f9a35032d2",
   "lastOpenFiles": [
-    "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
-    "3 - Tags/virtualisation.md",
-    "6 - Main Notes/virtualization.md",
+    "2 - Source Materials/Articles/REST vs RPC - What problems are you trying to solve with your APIs?.md",
+    "6 - Main Notes/2026-07-12/Protocol Buffers.md",
+    "6 - Main Notes/2026-07-12/grpc Communication patterns.md",
+    "6 - Main Notes/2026-07-12/google Remote Procedure Calls.md",
+    "1 - Rough Notes/HTTP2 vs HTTP1.md",
+    "6 - Main Notes/2026-07-12",
+    "6 - Main Notes/Untitled.md",
+    "3 - Tags/grpc.md",
+    "3 - Tags/api.md",
+    "2 - Source Materials/Articles/gRPC for dummies.md",
+    "2 - Source Materials/Articles/A Beginner’s Guide to gRPC - What It Is and Why You Should Use It.md",
+    "3 - Tags/rpc.md",
     "3 - Tags/operating system.md",
+    "Excalidraw/How-RPC-Works.excalidraw.md",
     "5 - Templates/Full Note.md",
+    "3 - Tags/virtualisation.md",
+    "4 - Indexes/rpc.md",
+    "Untitled.canvas",
+    "6 - Main Notes/Understanding Computer Systems Virtualisation.md",
+    "2 - Source Materials/Articles",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "6 - Main Notes/virtualization.md",
     "Memory.md",
     "Understanding Operating Systems.md",
     "6 - Main Notes/Virtualization in computer systems.md",
-    "6 - Main Notes/Untitled.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
